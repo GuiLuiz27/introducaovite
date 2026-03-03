@@ -1,9 +1,12 @@
-
+/*CSS GLOBAL */
 
 body{
     display:flex;
-    flex-direction: column;
-    justify-content:center;   
+    justify-content:center;
+    height: 100vh;
+    margin:10px;
+    /*justify-content: center; */
+    /* height: 100vh; */   
 }
 
 h1 {
