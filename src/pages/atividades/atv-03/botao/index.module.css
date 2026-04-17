@@ -1,0 +1,28 @@
+.botao {
+    padding: 1rem 2rem;
+    cursor: pointer;
+    margin: 0.5rem;
+    color: white;
+    border: none;
+}
+
+/* cada ação com uma cor */
+.cadastrar {
+    background-color: rgb(31, 128, 31);
+}
+
+.editar {
+    background-color: rgb(46, 206, 255);
+}
+
+.listar {
+    background-color: rgb(255, 136, 0);
+}
+
+.excluir {
+    background-color: rgb(224, 0, 0);
+}
+
+.cancelar {
+    background-color: rgb(100, 100, 100);
+}

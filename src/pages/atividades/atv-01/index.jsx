@@ -6,6 +6,7 @@ function Atividade01() {
          <div className={styles.container}>
             <h1>Atividade 1</h1>
             <p>Odeio programação. ATACADÃO 2027!</p>
+            <img ur></img>
             </div>
         </>
     )
